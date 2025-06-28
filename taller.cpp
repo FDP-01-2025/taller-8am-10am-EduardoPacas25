@@ -127,8 +127,8 @@ void eliminarEstudiante() {
 }
 // -----------------------------
 
-// Menú principal
-int main() {
+// Menú principal 
+int main() { 
     int opcion;
     do {
         cout << "\n=== CRUD de Estudiantes ===\n";
